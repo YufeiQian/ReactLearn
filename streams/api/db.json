@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is my stream",
+      "id": 1
+    },
+    {
+      "title": "Stream2",
+      "description": "Second Stream",
+      "id": 2
+    },
+    {
+      "title": "Me Stream Component Reuse",
+      "description": "Edit Complete",
+      "id": 4
+    },
+    {
+      "title": "ABC",
+      "description": "My Stream ABC",
+      "userId": "114617032007094783675",
+      "id": 5
+    }
+  ]
+}
